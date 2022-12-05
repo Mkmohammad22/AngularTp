@@ -1,0 +1,34 @@
+{
+  "properties": [
+    {
+      "id": 1,
+      "ptitle": "sidi properties",
+      "pprice": "2000",
+      "plocation":"nktt",
+      "pdetails":"fjjfhjdn"
+    }
+  ],
+  "signup": [
+    {
+      "id": 1,
+      "name": "sidi",
+      "email": "sidi@angular.com",
+      "mobile":"22334455",
+      "password":"12341234"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
