@@ -3,6 +3,8 @@ import { SignupComponent } from './signup/signup.component';
 import { LoginComponent } from './login/login.component';
 import { NgModule } from '@angular/core';
 import { RouterModule, Routes } from '@angular/router';
+import { AnimationComponent } from './animation/animation.component';
+
 
 const routes: Routes = [
 
@@ -17,6 +19,9 @@ const routes: Routes = [
   },
   {
     path:'properties',component:PropertisComponent
+  },
+  {
+    path:'animation',component:AnimationComponent
   }
 ];
 
